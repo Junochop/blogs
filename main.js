@@ -20,6 +20,13 @@ var journalBlogs = [
         title: "Week 4: Arrays, ES6 Functions, Object Array",
         post: "My Week 4 was learning about Advance JS, ES6, and Event Listener.  Using event listener exercise was helpful and targeting and calling the assigned functions by traversing the dom was very helpful."
 
+    },
+    {
+        id: "blog4",
+        date: "Mar 27, 2018",
+        title: "Week 5: Markdowns",
+        post: "This week, we learned how to use the Markdown's in Github.  We use this to write effective README and instructions.  There are  new ways to insert a picture of my project and also learned how to change its headings."
+
     }
 
 ]
