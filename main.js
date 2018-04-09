@@ -27,6 +27,20 @@ var journalBlogs = [
         title: "Week 5: Markdowns",
         post: "This week, we learned how to use the Markdown's in Github.  We use this to write effective README and instructions.  There are  new ways to insert a picture of my project and also learned how to change its headings."
 
+    },
+    {
+        id: "blog5",
+        date: "April 3, 2018",
+        title: "Week 6: XHR",
+        post: "This week, we learned how to use XHR.  Utilizing XHR to access JSON files.  It is a different way to access the data object. It must convert strings to object by parsing the key values."
+
+    },
+    {
+        id: "blog4",
+        date: "April 9, 2018",
+        title: "Week 7: Markdowns",
+        post: "This week, we learned how to use Bootstrap.  there are new version out there.  We decided not to use the new version due to the stability and consistency of its performance.  It helped us to add new font styles as well as the unique icons in the library.  It also creates a flex-model type of structure by manipulating in the HTML file."
+
     }
 
 ]
