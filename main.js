@@ -36,12 +36,19 @@ var journalBlogs = [
 
     },
     {
-        id: "blog4",
+        id: "blog6",
         date: "April 9, 2018",
         title: "Week 7: Markdowns",
-        post: "This week, we learned how to use Bootstrap.  there are new version out there.  We decided not to use the new version due to the stability and consistency of its performance.  It helped us to add new font styles as well as the unique icons in the library.  It also creates a flex-model type of structure by manipulating in the HTML file."
+        post: "This week, we learned how to use Bootstrap.  There are new version out there.  We decided not to use the new version due to the stability and consistency of its performance.  It helped us to add new font styles as well as the unique icons in the library.  It also creates a flex-model type of structure by manipulating in the HTML file."
 
-    }
+    },
+    {
+    id: "blog7",
+    date: "April 17, 2018",
+    title: "Week 8: Task Runner and Browserify",
+    post: "This week, we learned how to use Browserify and Task Runner. There are certan rules and settings to follow in order to execute the files.  All files should be structured in a certain way; they can be compartmentalized. It was good to learn a different way to organize functions and data by utilizing the newly learned lessons in class."
+
+   },
 
 ]
 
